@@ -1,0 +1,5 @@
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache

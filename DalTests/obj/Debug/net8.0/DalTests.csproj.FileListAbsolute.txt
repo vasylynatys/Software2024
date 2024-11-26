@@ -1,0 +1,6 @@
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DalTests\bin\Debug\net8.0\CoverletSourceRootsMapping_DalTests
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DalTests\obj\Debug\net8.0\DalTests.csproj.AssemblyReference.cache
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DalTests\obj\Debug\net8.0\DalTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DalTests\obj\Debug\net8.0\DalTests.AssemblyInfoInputs.cache
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DalTests\obj\Debug\net8.0\DalTests.AssemblyInfo.cs
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DalTests\obj\Debug\net8.0\DalTests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogicTests\bin\Debug\net8.0\CoverletSourceRootsMapping_BusinessLogicTests
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogicTests\obj\Debug\net8.0\BusinessLogicTests.csproj.AssemblyReference.cache
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogicTests\obj\Debug\net8.0\BusinessLogicTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogicTests\obj\Debug\net8.0\BusinessLogicTests.AssemblyInfoInputs.cache
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogicTests\obj\Debug\net8.0\BusinessLogicTests.AssemblyInfo.cs
+D:\university\3k\1 sem\pz\task1\ConsoleApp\BusinessLogicTests\obj\Debug\net8.0\BusinessLogicTests.csproj.CoreCompileInputs.cache
