@@ -1,0 +1,5 @@
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\university\3k\1 sem\pz\task1\ConsoleApp\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
