@@ -1,0 +1,10 @@
+﻿<Window x:Class="SupplierProductManagementApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Main Window" Height="400" Width="600">
+    <Grid>
+        <Button Content="Manage Suppliers" Width="200" Height="40" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0" Click="ManageSuppliersButton_Click"/>
+        <Button Content="Manage Products" Width="200" Height="40" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,100,0,0" Click="ManageProductsButton_Click"/>
+        <Button Content="Logout" Width="200" Height="40" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,150,0,0" Click="LogoutButton_Click"/>
+    </Grid>
+</Window>
